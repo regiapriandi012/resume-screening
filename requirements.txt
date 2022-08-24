@@ -1,0 +1,4 @@
+flask
+PyPDF2
+pandas
+matplotlib
