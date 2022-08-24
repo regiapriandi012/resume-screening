@@ -1,4 +1,3 @@
-[![unittest](https://img.shields.io/github/workflow/status/icon-project/icon-sdk-python/unittest%20and%20publish%20to%20pypi/master?label=unittest&logo=github)](https://github.com/icon-project/icon-sdk-python/actions/workflows/iconsdk-workflow.yml)
 [![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 
 # Resume Screening Flask
