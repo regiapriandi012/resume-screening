@@ -1,7 +1,14 @@
+[![unittest](https://img.shields.io/github/workflow/status/icon-project/icon-sdk-python/unittest%20and%20publish%20to%20pypi/master?label=unittest&logo=github)](https://github.com/icon-project/icon-sdk-python/actions/workflows/iconsdk-workflow.yml)
+[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
+
 # Resume Screening Flask
 Aplikasi screening resume dengan menghitung skor pada setiap bidang informatika berdasarkan skill atau kemampuan yang terpindai pada resume. Dibagun menggunakan bahasa pemrograman Python dengan framework web application Flask.
 
-### Installasi
+### Requirements
+
+- Python 3.7 or later.
+
+### Installation
 
 ```
 pip install requirements.txt
