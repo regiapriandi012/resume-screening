@@ -10,7 +10,7 @@ Aplikasi screening resume dengan menghitung skor pada setiap bidang informatika 
 ### Installation
 
 ```
-cd Sipeka-Flask
+cd resume-screening-flask
 source bin/activate
 flask run
 ```
