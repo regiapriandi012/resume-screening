@@ -10,8 +10,9 @@ Aplikasi screening resume dengan menghitung skor pada setiap bidang informatika 
 ### Installation
 
 ```
-pip install requirements.txt
-python3 app.py
+cd Sipeka-Flask
+source bin/activate
+flask run
 ```
 
 ## Layout Index
