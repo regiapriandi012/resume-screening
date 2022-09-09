@@ -12,7 +12,7 @@ Aplikasi screening resume dengan menghitung skor pada setiap bidang informatika 
 ```
 cd resume-screening-flask
 python3 -m venv venv  
-venv\Scripts\activate  
+source ./venv/bin/activate  
 pip install -r requirements.txt  
 flask run
 ```
