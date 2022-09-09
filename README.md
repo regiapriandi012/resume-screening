@@ -11,7 +11,9 @@ Aplikasi screening resume dengan menghitung skor pada setiap bidang informatika 
 
 ```
 cd resume-screening-flask
-source bin/activate
+python3 -m venv venv  
+venv\Scripts\activate  
+pip install -r requirements.txt  
 flask run
 ```
 
