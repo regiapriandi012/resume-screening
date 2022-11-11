@@ -1,4 +1,6 @@
-[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
+![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/codeql.yml/badge.svg)
+![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/dependency-review.yml/badge.svg)
+![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/docker-image.yml/badge.svg)
 
 # Resume Screening Flask
 Aplikasi screening resume dengan menghitung skor pada setiap bidang informatika berdasarkan skill atau kemampuan yang terpindai pada resume. Dibagun menggunakan bahasa pemrograman Python dengan framework web application Flask.
