@@ -1,4 +1,5 @@
 ![](https://img.shields.io/github/license/regiapriandi012/resume-screening-flask)
+![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/main.yml/badge.svg)
 ![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/python-app.yml/badge.svg)
 ![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/codeql.yml/badge.svg)
 ![](https://github.com/regiapriandi012/resume-screening-flask/actions/workflows/dependency-review.yml/badge.svg)
