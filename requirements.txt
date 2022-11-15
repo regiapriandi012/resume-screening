@@ -12,7 +12,7 @@ matplotlib==3.5.3
 numpy==1.23.2
 packaging==21.3
 pandas==1.4.4
-Pillow==9.2.0
+Pillow==9.3.0
 pyparsing==3.0.9
 PyPDF2==2.10.5
 python-dateutil==2.8.2
