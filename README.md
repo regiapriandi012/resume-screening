@@ -31,3 +31,5 @@ $ flask run
 
 ## Result Visualization
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/69528812/186494373-bc9e2286-1f1c-4a71-8c88-9f8bcf61ad96.png">
+
+## Lets Contribute to this Repository
